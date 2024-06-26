@@ -1,6 +1,7 @@
 # Backend of the RouteMappingProject in Spring Boot
 This is the Backend of a Route Mapping Service. The Algorithmic part is developped in Java, the Backend is in Spring Boot and the Frontend in React.
 The integrated algorithmic part is publicly available in this [repository](https://github.com/KalliGiannikoglou/RouteMappingProject).
+The building is done using Maven.
 
 ## Useful Instructions
 To initialize the project, we used Spring Initializr, download [here](https://start.spring.io/). 
